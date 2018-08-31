@@ -1,0 +1,183 @@
+,actual,capital,days,location,sec_type,section,time_end,time_start,title,department,full_rate,time_delta
+0,104,115,TRF,STBIO,Lecture,COMP 189-001,9,8,Computers and Society.,computer science,0.9043478260869565,1
+1,196,195,TR,ENGMC,Lecture,COMP 202-001,15,14,Foundations of Programming.,computer science,1.005128205128205,1
+2,233,235,MW,MAASS,Lecture,COMP 202-002,12,11,Foundations of Programming.,computer science,0.9914893617021276,1
+3,195,195,MWF,ENGMC,Lecture,COMP 202-003,11,10,Foundations of Programming.,computer science,1.0,1
+4,388,425,TR,ADAMS,Lecture,COMP 206-001,15,14,Introduction to Software Systems.,computer science,0.9129411764705883,1
+5,81,83,MW,ENGTR,Lecture,COMP 208-001,15,14,Computers in Engineering.,computer science,0.9759036144578314,1
+6,134,140,TR,MAASS,Lecture,COMP 208-002,12,11,Computers in Engineering.,computer science,0.9571428571428572,1
+7,355,390,TR,ADAMS,Lecture,COMP 250-001,17,16,Introduction to Computer Science.,computer science,0.9102564102564102,1
+8,263,300,MW,LEA,Lecture,COMP 250-002,17,16,Introduction to Computer Science.,computer science,0.8766666666666667,1
+9,336,355,MW,ADAMS,Lecture,COMP 251-001,9,8,Algorithms and Data Structures.,computer science,0.9464788732394366,1
+10,53,74,TR,ENGTR,Lecture,COMP 252-001,9,8,Honours Algorithms and Data Structures.,computer science,0.7162162162162162,1
+11,245,255,MW,ENGMD,Lecture,COMP 273-001,14,13,Introduction to Computer Systems.,computer science,0.9607843137254902,1
+12,211,233,TR,BIRKS,Lecture,COMP 302-001,14,13,Programming Languages and Paradigms.,computer science,0.9055793991416309,1
+13,235,240,WF,SADB,Lecture,COMP 303-001,17,16,Software Design.,computer science,0.9791666666666666,1
+14,88,92,TRF,MDHAR,Lecture,COMP 310-001,9,8,Operating Systems.,computer science,0.9565217391304348,1
+15,29,58,F,ENGTR,Lecture,COMP 321-001,15,13,Programming Challenges.,computer science,0.5,2
+16,151,158,T,ENGTR,Lecture,COMP 322-001,15,14,Introduction to C++.,computer science,0.9556962025316456,1
+17,143,300,MW,STBIO,Lecture,COMP 360-001,9,8,Algorithm Design.,computer science,0.4766666666666667,1
+18,58,75,TR,ENGTR,Lecture,COMP 361D2-001,17,16,Software Engineering Project.,computer science,0.7733333333333333,1
+19,28,52,TR,BIRKS,Lecture,COMP 362-001,14,13,Honours Algorithm Design.,computer science,0.5384615384615384,1
+20,62,62,TR,MAASS,Lecture,COMP 409-001,11,10,Concurrent Programming.,computer science,1.0,1
+21,235,250,MW,ENGMC,Lecture,COMP 421-001,11,10,Database Systems.,computer science,0.94,1
+22,261,277,MW,ENGTR,Lecture,COMP 424-001,17,16,Artificial Intelligence.,computer science,0.9422382671480144,1
+23,39,72,MWF,ENGTR,Lecture,COMP 520-001,10,9,Compiler Design.,computer science,0.5416666666666666,1
+24,20,60,MW,ENGMC,Lecture,COMP 531-001,14,13,Advanced Theory of Computation.,computer science,0.3333333333333333,1
+25,77,128,TR,MAASS,Lecture,COMP 535-001,17,16,Computer Networks 1.,computer science,0.6015625,1
+26,31,57,TR,ENGTR,Lecture,COMP 540-001,9,8,Matrix Computations.,computer science,0.543859649122807,1
+27,37,72,TR,ENGTR,Lecture,COMP 546-001,9,8,Computational Perception.,computer science,0.5138888888888888,1
+28,37,62,TR,ENGTR,Lecture,COMP 547-001,15,14,Cryptography and Data Security.,computer science,0.5967741935483871,1
+29,132,134,TR,LEA,Lecture,COMP 551-001,12,11,Applied Machine Learning.,computer science,0.9850746268656716,1
+30,94,123,MW,STBIO,Lecture,COMP 551-002,9,8,Applied Machine Learning.,computer science,0.7642276422764228,1
+31,4,60,TR,ENGMC,Lecture,COMP 552-001,9,8,Combinatorial Optimization.,computer science,0.06666666666666667,1
+32,56,135,TR,BURN,Lecture,COMP 557-001,9,8,Fundamentals of Computer Graphics.,computer science,0.4148148148148148,1
+33,12,68,TR,ENGTR,Lecture,COMP 559-001,15,14,Fundamentals of Computer Animation.,computer science,0.17647058823529413,1
+34,9,15,R,WILSON,Lecture,COMP 567-001,17,14,Discrete Optimization 2.,computer science,0.6,3
+35,10,22,TR,ENGMC,Topics Course,COMP 599-001,14,13,Topics in Computer Science 2.,computer science,0.45454545454545453,1
+36,37,50,F,ENGTR,Topics Course,COMP 601-001,15,14,Thesis Literature Review.,computer science,0.74,1
+37,15,20,TR,ENGMC,Lecture,COMP 762-002,11,10,Advanced Topics Programming 1.,computer science,0.75,1
+38,114,140,TR,ENGMC,Lecture,COMP 767-001,17,16,Advanced Topics: Applications 2.,computer science,0.8142857142857143,1
+0,22,85,TR,ENGMD,Lecture,MATH 111-001,15,14,Mathematics for Education Students.,math,0.25882352941176473,1
+1,225,225,TR,SADB,Lecture,MATH 123-001,12,11,Linear Algebra and Probability.,math,1.0,1
+2,65,65,TR,ARMST,Lecture,MATH 123-002,17,16,Linear Algebra and Probability.,math,1.0,1
+3,254,252,TR,MAASS,Lecture,MATH 133-001,17,16,Linear Algebra and Geometry.,math,1.007936507936508,1
+4,151,160,MWF,ENGTR,Lecture,MATH 140-001,9,8,Calculus 1.,math,0.94375,1
+5,366,382,MWF,MCMED,Lecture,MATH 141-001,9,8,Calculus 2.,math,0.9581151832460733,1
+6,389,389,MWF,MCMED,Lecture,MATH 141-002,12,11,Calculus 2.,math,1.0,1
+7,391,391,TR,MCMED,Lecture,MATH 141-003,14,13,Calculus 2.,math,1.0,1
+8,63,80,MWF,MAASS,Lecture,MATH 151-001,12,11,Calculus B.,math,0.7875,1
+9,284,295,MWF,ADAMS,Lecture,MATH 203-001,10,9,Principles of Statistics 1.,math,0.9627118644067797,1
+10,111,135,MWF,RPHYS,Lecture,MATH 204-001,12,11,Principles of Statistics 2.,math,0.8222222222222222,1
+11,207,230,TR,MAASS,Lecture,MATH 222-001,14,13,Calculus 3.,math,0.9,1
+12,208,230,TR,MAASS,Lecture,MATH 223-001,9,8,Linear Algebra.,math,0.9043478260869565,1
+13,115,133,MWF,BURN,Lecture,MATH 236-001,10,9,Algebra 2.,math,0.8646616541353384,1
+14,357,363,TR,ADAMS,Lecture,MATH 240-001,14,13,Discrete Structures 1.,math,0.9834710743801653,1
+15,114,133,MWF,BURN,Lecture,MATH 243-001,11,10,Analysis 2.,math,0.8571428571428571,1
+16,81,83,TR,BURN,Lecture,MATH 247-001,11,10,Honours Applied Linear Algebra.,math,0.9759036144578314,1
+17,57,80,TR,MAASS,Lecture,MATH 249-001,14,13,Honours Complex Variables.,math,0.7125,1
+18,73,81,MWF,ENGMD,Lecture,MATH 251-001,10,9,Honours Algebra 2.,math,0.9012345679012346,1
+19,77,96,TR,BRONF,Lecture,MATH 255-001,12,11,Honours Analysis 2.,math,0.8020833333333334,1
+20,171,180,MWF,MDHAR,Lecture,MATH 262-001,10,9,Intermediate Calculus.,math,0.95,1
+21,173,185,WF,LEA,Lecture,MATH 263-001,12,11,Ordinary Differential Equations for Engineers.,math,0.9351351351351351,1
+22,108,185,TR,ENGMC,Lecture,MATH 263-002,15,14,Ordinary Differential Equations for Engineers.,math,0.5837837837837838,1
+23,159,190,TR,SADB,Lecture,MATH 264-001,14,13,Advanced Calculus for Engineers.,math,0.8368421052631579,1
+24,147,149,TR,BURN,Lecture,MATH 314-001,12,11,Advanced Calculus.,math,0.9865771812080537,1
+25,121,150,MWF,RPHYS,Lecture,MATH 315-001,11,10,Ordinary Differential Equations.,math,0.8066666666666666,1
+26,50,68,MWF,BURN,Lecture,MATH 319-001,10,9,Introduction to Partial Differential Equations.,math,0.7352941176470589,1
+27,199,199,WF,LEA,Lecture,MATH 323-001,14,13,Probability.,math,1.0,1
+28,139,154,TR,DUFF,Lecture,MATH 324-001,15,14,Statistics.,math,0.9025974025974026,1
+29,90,110,TR,MAASS,Lecture,MATH 325-001,15,14,Honours Ordinary Differential Equations.,math,0.8181818181818182,1
+30,85,88,MWF,RPHYS,Lecture,MATH 329-001,9,8,Theory of Interest.,math,0.9659090909090909,1
+31,135,141,WF,BURN,Lecture,MATH 340-001,12,11,Discrete Structures 2.,math,0.9574468085106383,1
+32,37,61,TR,BURN,Lecture,MATH 357-001,9,8,Honours Statistics.,math,0.6065573770491803,1
+33,20,40,WF,BURN,Lecture,MATH 387-001,12,11,Honours Numerical Analysis.,math,0.5,1
+34,26,55,TR,BURN,Lecture,MATH 427-001,14,13,Statistical Quality Control.,math,0.4727272727272727,1
+35,29,65,MW,BURN,Lecture,MATH 430-001,11,10,Mathematical Finance.,math,0.4461538461538462,1
+36,17,30,TR,MCMED,Lecture,MATH 437-001,14,13,Mathematical Methods in Biology.,math,0.5666666666666667,1
+37,89,100,MWF,BURN,Lecture,MATH 447-001,9,8,Introduction to Stochastic Processes.,math,0.89,1
+38,29,55,MWF,BURN,Lecture,MATH 455-001,9,8,Honours Analysis 4.,math,0.5272727272727272,1
+39,31,40,MWF,BURN,Lecture,MATH 457-001,11,10,Honours Algebra 4.,math,0.775,1
+40,32,55,WF,BURN,Lecture,MATH 458-001,12,11,Honours Differential Geometry.,math,0.5818181818181818,1
+41,51,59,TR,BURN,Lecture,MATH 523-001,11,10,Generalized Linear Models.,math,0.864406779661017,1
+42,2,10,TR,MCMED,Lecture,MATH 537-001,14,13,Honours Mathematical Models in Biology.,math,0.2,1
+43,17,40,TR,BURN,Lecture,MATH 547-001,9,8,Stochastic Processes.,math,0.425,1
+44,15,25,TR,BURN,Lecture,MATH 550-001,14,13,Combinatorics.,math,0.6,1
+45,2,25,TR,ENGMC,Lecture,MATH 552-001,9,8,Combinatorial Optimization.,math,0.08,1
+46,17,40,TR,BURN,Lecture,MATH 557-001,9,8,Mathematical Statistics 2.,math,0.425,1
+47,22,46,WF,ENGTR,Lecture,MATH 560-001,11,10,Optimization.,math,0.4782608695652174,1
+48,8,20,T,BURN,Lecture,MATH 565-001,14,13,Advanced Real Analysis 2.,math,0.4,1
+49,5,20,MWF,BURN,Lecture,MATH 571-001,10,8,Higher Algebra 2.,math,0.25,2
+50,10,25,TR,BURN,Lecture,MATH 577-001,14,13,Geometry and Topology 2.,math,0.4,1
+51,18,25,TR,BURN,Lecture,MATH 579-001,12,11,Numerical Differential Equations.,math,0.72,1
+52,8,20,R,BURN,Lecture,MATH 581-001,13,12,Partial Differential Equations 2.,math,0.4,1
+53,10,20,T,BURN,Topics Course,MATH 595-001,18,17,*TOPICS IN C*-ALGEBRAS,math,0.5,1
+54,7,20,MWF,BURN,Topics Course,MATH 596-001,14,13,Topics in Algebra & Number Theory.,math,0.35,1
+55,10,15,T,BURN,Topics Course,MATH 596-002,12,11,Topics in Algebra & Number Theory.,math,0.6666666666666666,1
+56,8,10,WF,BURN,Topics Course,MATH 598-001,11,10,Topics in Probability and Statistics.,math,0.8,1
+57,12,14,TR,BURN,Topics Course,MATH 599-001,11,10,Topics in Geometry & Topology.,math,0.8571428571428571,1
+58,0,20,TR,BURN,Topics Course,MATH 599-002,15,14,Topics in Geometry & Topology.,math,0.0,1
+59,18,30,MW,BURN,Lecture,MATH 680-001,16,15,Computation Intensive Statistics.,math,0.6,1
+60,4,10,TR,BURN,Lecture,MATH 686-001,11,10,Survival Analysis.,math,0.4,1
+61,3,20,WF,BURN,Lecture,MATH 726-001,15,14,Advanced Topics in Number Theory.,math,0.15,1
+0,88,78,MWF,ENGTR,Lecture,ECSE 200-001,9,8,Electric Circuits 1.,ele & comp eng,1.1282051282051282,1
+1,102,92,MWF,ENGMD,Lecture,ECSE 202-001,9,8,Introduction to Software Development.,ele & comp eng,1.108695652173913,1
+2,91,90,MWF,ENGTR,Lecture,ECSE 205-001,12,11,Probability and Statistics for Engineers,ele & comp eng,1.011111111111111,1
+3,47,51,M,ENGMD,Lecture,ECSE 205-005,12,11,Probability and Statistics for Engineers,ele & comp eng,0.9215686274509803,1
+4,136,148,TR,ENGMC,Lecture,ECSE 206-001,12,11,Introduction to Signals and Systems.,ele & comp eng,0.918918918918919,1
+5,79,201,TRF,ENGMC,Lecture,ECSE 210-001,9,8,Electric Circuits 2.,ele & comp eng,0.39303482587064675,1
+6,104,130,MWF,ENGMC,Lecture,ECSE 211-001,11,10,Design Principles and Methods.,ele & comp eng,0.8,1
+7,1,24,MWF,ENGMC,Lecture,ECSE 221-001,13,12,Introduction to Computer Engineering.,ele & comp eng,0.041666666666666664,1
+8,132,141,MWF,ENGMC,Lecture,ECSE 222-001,13,12,Digital Logic.,ele & comp eng,0.9361702127659575,1
+9,186,148,MTR,ENGTR,Lecture,ECSE 223-001,11,10,Model-Based Programming.,ele & comp eng,1.2567567567567568,1
+10,81,75,MWF,MAASS,Lecture,ECSE 251-001,15,14,Electric and Magnetic Fields.,ele & comp eng,1.08,1
+11,56,58,MWF,ENGTR,Lecture,ECSE 305-001,12,11,Probability and Random Signals 1.,ele & comp eng,0.9655172413793104,1
+12,17,27,M,ENGMD,Lecture,ECSE 305-005,12,11,Probability and Random Signals 1.,ele & comp eng,0.6296296296296297,1
+13,23,50,TR,ENGMC,Lecture,ECSE 306-001,12,11,Fundamentals of Signals and Systems.,ele & comp eng,0.46,1
+14,53,96,MWF,ENGTR,Lecture,ECSE 307-001,14,13,Linear Systems and Control.,ele & comp eng,0.5520833333333334,1
+15,40,78,MWF,ENGMC,Lecture,ECSE 308-001,9,8,Introduction to Communication Systems and Networks.,ele & comp eng,0.5128205128205128,1
+16,27,78,MWF,ENGMC,Lecture,ECSE 309-001,9,8,Fundamentals of Communication Systems and Networks.,ele & comp eng,0.34615384615384615,1
+17,73,78,MWF,ENGTR,Lecture,ECSE 310-001,14,13,Thermodynamics of Computing.,ele & comp eng,0.9358974358974359,1
+18,18,78,TRF,ENGMD,Lecture,ECSE 316-001,10,9,Signals and Networks.,ele & comp eng,0.23076923076923078,1
+19,74,90,TR,ENGMC,Lecture,ECSE 321-001,12,11,Introduction to Software Engineering.,ele & comp eng,0.8222222222222222,1
+20,97,95,MTR,ENGTR,Lecture,ECSE 324-001,10,9,Computer Organization.,ele & comp eng,1.0210526315789474,1
+21,53,148,MWF,ENGTR,Lecture,ECSE 325-001,13,12,Digital Systems.,ele & comp eng,0.3581081081081081,1
+22,12,48,WF,ENGTR,Lecture,ECSE 330-001,15,14,Introduction to Electronics.,ele & comp eng,0.25,1
+23,43,96,WF,ENGTR,Lecture,ECSE 331-001,15,14,Electronics.,ele & comp eng,0.4479166666666667,1
+24,53,130,TR,ENGTR,Lecture,ECSE 334-001,14,13,Introduction to Microelectronics.,ele & comp eng,0.4076923076923077,1
+25,10,78,TR,ENGTR,Lecture,ECSE 335-001,14,13,Microelectronics.,ele & comp eng,0.1282051282051282,1
+26,7,25,MWF,MAASS,Lecture,ECSE 351-001,15,14,Electromagnetic Fields.,ele & comp eng,0.28,1
+27,19,8,MTR,ENGTR,Lecture,ECSE 352-001,12,11,Electromagnetic Waves.,ele & comp eng,2.375,1
+28,52,70,MTR,ENGTR,Lecture,ECSE 354-001,12,11,Electromagnetic Wave Propagation.,ele & comp eng,0.7428571428571429,1
+29,37,28,MTR,ENGTR,Lecture,ECSE 361-001,13,12,Power Engineering.,ele & comp eng,1.3214285714285714,1
+30,39,50,MTR,ENGTR,Lecture,ECSE 362-001,13,12,Fundamentals of Power Engineering.,ele & comp eng,0.78,1
+31,42,100,TR,ENGTR,Lecture,ECSE 421-001,12,11,Embedded Systems.,ele & comp eng,0.42,1
+32,19,25,WF,ENGTR,Lecture,ECSE 423-001,11,10,Fundamentals of Photonics.,ele & comp eng,0.76,1
+33,53,62,MW,ENGTR,Lecture,ECSE 425-001,9,8,Computer Architecture.,ele & comp eng,0.8548387096774194,1
+34,52,56,W,ENGTR,Lecture,ECSE 426-001,12,11,Microprocessor Systems.,ele & comp eng,0.9285714285714286,1
+35,96,93,TRF,MDHAR,Lecture,ECSE 427-001,9,8,Operating Systems.,ele & comp eng,1.032258064516129,1
+36,128,130,M,ENGMC,Lecture,ECSE 428-001,20,17,Software Engineering Practice.,ele & comp eng,0.9846153846153847,3
+37,17,25,TR,ENGTR,Lecture,ECSE 432-001,9,8,Physical Basis: Transistor Devices.,ele & comp eng,0.68,1
+38,82,89,M,ENGMC,Lecture,ECSE 434-001,17,15,Microelectronics Laboratory.,ele & comp eng,0.9213483146067416,2
+39,13,25,MW,ENGTR,Lecture,ECSE 435-001,17,16,Mixed-Signal Test Techniques.,ele & comp eng,0.52,1
+40,26,34,TR,ENGTR,Lecture,ECSE 436-001,9,8,Signal Processing Hardware.,ele & comp eng,0.7647058823529411,1
+41,135,125,MTR,MAASS,Lecture,ECSE 443-001,11,10,Introduction to Numerical Methods in Electrical Engineering.,ele & comp eng,1.08,1
+42,2,10,W,POLY,Lecture,ECSE 460-001,12,9,Appareillage électrique (Electrical Power Equipment).,ele & comp eng,0.2,3
+43,0,5,W,POLY,Lecture,ECSE 460-002,12,9,Appareillage électrique (Electrical Power Equipment).,ele & comp eng,0.0,3
+44,179,176,TR,ENGMC,Lecture,ECSE 461-001,11,10,Electric Machinery.,ele & comp eng,1.0170454545454546,1
+45,8,15,M,POLY,Lecture,ECSE 463-001,12,9,Electric Power Generation.,ele & comp eng,0.5333333333333333,3
+46,0,15,M,POLY,Lecture,ECSE 466-001,12,9,Réseaux de distribution.,ele & comp eng,0.0,3
+47,0,10,T,POLY,Lecture,ECSE 467-001,12,9,Comportement des réseaux électriques.,ele & comp eng,0.0,3
+48,0,5,T,POLY,Lecture,ECSE 467-002,12,9,Comportement des réseaux électriques.,ele & comp eng,0.0,3
+49,3,10,T,POLY,Lecture,ECSE 468-001,12,9,Electricité industrielle (Industrial Power Systems).,ele & comp eng,0.3,3
+50,0,5,T,POLY,Lecture,ECSE 468-002,12,9,Electricité industrielle (Industrial Power Systems).,ele & comp eng,0.0,3
+51,0,10,R,POLY,Lecture,ECSE 469-001,12,9,Protection des réseaux électriques.,ele & comp eng,0.0,3
+52,0,5,R,POLY,Lecture,ECSE 469-002,12,9,Protection des réseaux électriques.,ele & comp eng,0.0,3
+53,6,25,T,ENGTR,Lecture,ECSE 485-001,10,10,IC Fabrication Laboratory.,ele & comp eng,0.24,0
+54,31,39,T,ENGTR,Lecture,ECSE 486-001,17,16,Power Laboratory.,ele & comp eng,0.7948717948717948,1
+55,22,20,M,ENGTR,Lecture,ECSE 493-001,13,12,Control and Robotics Laboratory.,ele & comp eng,1.1,1
+56,11,30,WF,MAASS,Lecture,ECSE 506-001,9,8,Stochastic Control & Decision Theory.,ele & comp eng,0.36666666666666664,1
+57,0,5,WF,MAASS,Lecture,ECSE 506-002,9,8,Stochastic Control & Decision Theory.,ele & comp eng,0.0,1
+58,32,48,WF,ENGTR,Lecture,ECSE 507-001,11,10,Optimization and Optimal Control.,ele & comp eng,0.6666666666666666,1
+59,12,14,WF,ENGTR,Lecture,ECSE 507-002,11,10,Optimization and Optimal Control.,ele & comp eng,0.8571428571428571,1
+60,17,23,MW,BURN,Lecture,ECSE 510-001,11,10,Filtering and Prediction for Stochastic Systems.,ele & comp eng,0.7391304347826086,1
+61,0,2,MW,BURN,Lecture,ECSE 510-002,11,10,Filtering and Prediction for Stochastic Systems.,ele & comp eng,0.0,1
+62,4,15,TR,ENGTR,Lecture,ECSE 523-001,12,11,Speech Communications.,ele & comp eng,0.26666666666666666,1
+63,1,10,TR,ENGTR,Lecture,ECSE 523-002,12,11,Speech Communications.,ele & comp eng,0.1,1
+64,4,15,WF,ENGTR,Lecture,ECSE 527-001,11,10,Optical Engineering.,ele & comp eng,0.26666666666666666,1
+65,2,10,WF,ENGTR,Lecture,ECSE 527-002,11,10,Optical Engineering.,ele & comp eng,0.2,1
+66,2,15,MWF,ENGTR,Lecture,ECSE 535-001,14,13,Nanoelectronic Devices.,ele & comp eng,0.13333333333333333,1
+67,7,10,MWF,ENGTR,Lecture,ECSE 535-002,14,13,Nanoelectronic Devices.,ele & comp eng,0.7,1
+68,15,15,TR,ENGTR,Lecture,ECSE 536-001,11,10,RF Microelectronics.,ele & comp eng,1.0,1
+69,12,10,TR,ENGTR,Lecture,ECSE 536-002,11,10,RF Microelectronics.,ele & comp eng,1.2,1
+70,11,15,TR,ENGTR,Lecture,ECSE 563-001,12,11,Power Systems Operation and Planning.,ele & comp eng,0.7333333333333333,1
+71,3,10,TR,ENGTR,Lecture,ECSE 563-002,12,11,Power Systems Operation and Planning.,ele & comp eng,0.3,1
+72,9,15,TR,SH688,Lecture,ECSE 596-001,9,8,Optical Waveguides.,ele & comp eng,0.6,1
+73,0,10,TR,SH688,Lecture,ECSE 596-002,9,8,Optical Waveguides.,ele & comp eng,0.0,1
+74,17,28,WF,MDHAR,Lecture,ECSE 610-001,12,11,Wireless Communications.,ele & comp eng,0.6071428571428571,1
+75,8,20,TR,ENGTR,Lecture,ECSE 611-001,14,12,Software Analytics.,ele & comp eng,0.4,2
+76,13,18,WF,SH688,Lecture,ECSE 620-001,17,15,Information Theory and Coding.,ele & comp eng,0.7222222222222222,2
+77,21,30,TR,ENGTR,Lecture,ECSE 626-001,9,8,Statistical Computer Vision.,ele & comp eng,0.7,1
+78,18,25,MW,SH688,Lecture,ECSE 681-001,17,15,Colloquium in Electrical Engineering.,ele & comp eng,0.72,2
+79,6,20,TR,ENGTR,Lecture,ECSE 682-001,11,10,Topics in Computers and Circuits.,ele & comp eng,0.3,1
+80,8,20,MW,ENGTR,Lecture,ECSE 688-001,14,12,Recent Advances in Electrical Engineering 1.,ele & comp eng,0.4,2
